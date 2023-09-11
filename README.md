@@ -1,0 +1,2 @@
+# insurance_prediction_
+using LogisticRegressin,decisionTree,randomForestclassfier
